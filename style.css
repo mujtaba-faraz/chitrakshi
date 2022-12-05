@@ -55,8 +55,8 @@ audio {
   header div p {
     font-size: 70%;
   }
-  main div img {
-    width: 80%;
+  main .container img {
+    width: 85%;
   }
   header div img {
     width: 80%;
