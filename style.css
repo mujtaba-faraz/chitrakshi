@@ -8,7 +8,7 @@ header div img {
   display: flex;
 }
 header div p {
-  margin: 20px auto 0px auto;
+  margin: 15px auto 26px auto;
   display: flex;
   text-align: center;
   width: 200px;
@@ -19,7 +19,7 @@ main .container {
 }
 main .container img {
   display: flex;
-  margin: 20px auto 0px auto;
+  margin: 22px auto 0px auto;
   width: 70%;
   border: solid 1px rgb(200, 200, 200);
 }
@@ -45,6 +45,11 @@ main .container img {
   font-weight: normal;
   margin-bottom: 2px;
   color: black;
+}
+audio {
+  margin: 10px 0px 0px 0px;
+  width: 70%;
+  border-radius: 4px;
 }
 @media (max-width: 500px) {
   header div p {
